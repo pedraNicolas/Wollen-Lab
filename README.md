@@ -14,6 +14,20 @@ Aplicación Android desarrollada con Jetpack Compose que permite chatear con una
 - **Títulos automáticos**: Generación de títulos basados en el primer mensaje
 - **UI moderna**: Interfaz similar a ChatGPT con diseño limpio y minimalista
 
+<img width="388" height="801" alt="image" src="https://github.com/user-attachments/assets/b75f95a8-e0ae-4ffc-a592-acdbfc8e8af8" />
+
+<img width="394" height="800" alt="image" src="https://github.com/user-attachments/assets/2849b29f-e0f0-4225-b130-cd265eb56104" />
+
+<img width="386" height="803" alt="image" src="https://github.com/user-attachments/assets/514f83a6-495b-4785-9fac-24844063f576" />
+
+<img width="390" height="802" alt="image" src="https://github.com/user-attachments/assets/d19150dc-e267-4a7c-ab45-eda83a5f3b0a" />
+
+<img width="388" height="803" alt="image" src="https://github.com/user-attachments/assets/fa6d8df4-308a-4f2a-b032-70a4f8f0c90d" />
+
+<img width="392" height="805" alt="image" src="https://github.com/user-attachments/assets/c93f3a95-b97b-47a0-9c65-3f1abb6ceeff" />
+
+
+
 ## 🏗️ Arquitectura
 
 ### Clean Architecture + MVVM
