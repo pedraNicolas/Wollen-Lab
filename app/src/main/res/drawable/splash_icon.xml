@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="288dp"
+    android:height="288dp"
+    android:viewportWidth="288"
+    android:viewportHeight="288">
+    
+    <!-- Fondo negro (opcional, ya que el background es negro) -->
+    
+    <!-- Icono centrado: el viewport original es 35x26, lo escalamos y centramos en 288x288 -->
+    <!-- Escala: 288/35 = ~8.23, pero usamos un tamaño más conservador para que quepa bien -->
+    <!-- Centramos: (288 - 35*6) / 2 = 39, (288 - 26*6) / 2 = 66 -->
+    <group
+        android:translateX="39"
+        android:translateY="66"
+        android:scaleX="6"
+        android:scaleY="6">
+        <path
+            android:pathData="M8.81,4.59H0V13.39H8.81V4.59Z"
+            android:fillColor="#ffffff"/>
+        <path
+            android:pathData="M4.55,20.57L5.08,12.59L13.63,4.61L21.63,4.61L21.09,12.59L12.55,20.57L4.55,20.57Z"
+            android:fillColor="#ffffff"/>
+        <path
+            android:pathData="M17.36,20.57L17.9,12.59C17.9,12.59 23.45,6.4 26.44,5.47C29.42,4.54 34.44,4.61 34.44,4.61L33.91,12.59L25.36,20.57L17.36,20.57Z"
+            android:fillColor="#ffffff"/>
+    </group>
+</vector>

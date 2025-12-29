@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wollen Lab</string>
+    
+    <!-- Chat -->
+    <string name="btn_new_chat">Nuevo chat</string>
+    <string name="btn_new_chat_description">Nueva conversación</string>
+    <string name="chat_history">Historial</string>
+    <string name="chat_no_conversations">No hay conversaciones</string>
+    <string name="chat_conversation_no_title">Conversación sin título</string>
+    <string name="chat_delete">Eliminar</string>
+    <string name="chat_menu">Menú</string>
+    <string name="chat_theme_light">Cambiar a tema claro</string>
+    <string name="chat_theme_dark">Cambiar a tema oscuro</string>
+    <string name="chat_input_placeholder">Escribe un mensaje...</string>
+    <string name="chat_send">Enviar</string>
+    <string name="chat_error_prefix">Error: </string>
+    <string name="chat_welcome_title">Hola!</string>
+    <string name="chat_welcome_subtitle">¿En qué te puedo ayudar?</string>
+</resources>
