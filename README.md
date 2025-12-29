@@ -198,12 +198,9 @@ El icono adaptativo usa el mismo diseño del splash screen:
 - **Background**: Fondo negro sólido
 - **Adaptativo**: Se adapta a diferentes formas de iconos del sistema
 
-## 🤝 Contribución
-
-Este proyecto fue desarrollado para Wollen Lab. Para preguntas o aclaraciones:
 
 - **Android**: pedranicolas@gmail.com
 
 ## 📄 Licencia
 
-Este proyecto es parte de Wollen Lab y no está destinado para uso comercial.
+Este proyecto no está destinado para uso comercial.
